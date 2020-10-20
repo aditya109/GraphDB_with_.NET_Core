@@ -1,4 +1,4 @@
-# GraphDB_with_.NET_Core
+# GraphDB + .NET Core
 -----------------------------------------------------
 Exploring GraphDB with C# and .NET Core
 
